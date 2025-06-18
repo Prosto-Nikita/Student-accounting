@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Учёт студентов\Учёт студентов\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\user\source\repos\Учёт студентов\Учёт студентов\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\user\source\repos\Учёт студентов\Учёт студентов\ClassLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Учёт студентов\Учёт студентов\ClassLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\Учёт студентов\Учёт студентов\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Учёт студентов\Учёт студентов\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Учёт студентов\Учёт студентов\ClassLibrary\obj\Debug\ClassLib.939BCD28.Up2Date
+C:\Users\user\source\repos\Учёт студентов\Учёт студентов\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\user\source\repos\Учёт студентов\Учёт студентов\ClassLibrary\obj\Debug\ClassLibrary.pdb

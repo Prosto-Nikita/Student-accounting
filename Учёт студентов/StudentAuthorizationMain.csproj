@@ -219,9 +219,9 @@
     <Resource Include="pdf-file.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\StudentAuthorizationMain\StudentAuthorizationMain\ClassLibrary\ClassLibrary.csproj">
-      <Project>{98aa27b5-ad35-4bbf-b1db-49b6926a3385}</Project>
-      <Name>ClassLibrary</Name>
+    <ProjectReference Include="..\ClassLibrary\MainClassLibrary.csproj">
+      <Project>{9ac7842d-5fa7-4b00-b58f-001bb215fd21}</Project>
+      <Name>MainClassLibrary</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
